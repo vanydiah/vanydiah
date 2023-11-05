@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Vany Diah - open to work for Remote Front-end Engineer with any time zone 🌏
+### Hi there 👋 I'm Vany Diah
+## open to work for Remote Front-end Engineer with any time zone 🌏
 
 Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
 
