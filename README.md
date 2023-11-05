@@ -1,14 +1,11 @@
 ### Hi there 👋 I'm Vany Diah - open to work for a job as Remote Front-end Engineer or UI Developer with any time zone 🌏
 
+Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
+
 A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 8+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
 
 Interested to discuss with me? Let's get in touch.
-
-Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
-
-Feel free to drop me a line by [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vanydiah17@gmail.com)](vanydiah17@gmail.com) 
-
-or my [![Social Media](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://vanydiah.carrd.co/)](social links)
+Feel free to drop me a line by [![E-mail](mailto:vanydiah17@gmail.com)](vanydiah17@gmail.com) or my [![Social Media](https://vanydiah.carrd.co/)](social links)
 
 Technologies, frameworks, and tools i'm using so far : <br /> <br />
 
