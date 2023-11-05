@@ -2,11 +2,13 @@
 
 A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 8+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
 
-Interested to discuss with me? Let's get in touch. Feel free to drop me a line by e-mail or social media.
+Interested to discuss with me? Let's get in touch.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
+Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vanydiah17@gmail.com)](vanydiah17@gmail.com)
+Feel free to drop me a line by [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vanydiah17@gmail.com)](vanydiah17@gmail.com) 
+
+or my [![Social Media](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://vanydiah.carrd.co/)](social links)
 
 Technologies, frameworks, and tools i'm using so far : <br /> <br />
 
