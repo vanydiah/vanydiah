@@ -4,9 +4,9 @@ A passionate Front-end Engineer and experienced in developing pixel-perfect mid 
 
 Interested to discuss with me? Let's get in touch. Feel free to drop me a line by e-mail or social media.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/) /vanydiah
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
 
-[![E-mail]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&link=mailto:vanydiah17@gmail.com)](vanydiah17@gmail.com) vanydiah17@gmail.com
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vanydiah17@gmail.com)](vanydiah17@gmail.com)
 
 Technologies, frameworks, and tools i'm using so far : <br /> <br />
 
