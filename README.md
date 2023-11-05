@@ -5,7 +5,7 @@ Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&log
 A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 8+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
 
 Interested to discuss with me? Let's get in touch.
-Feel free to drop me a line by [![mailto:vanydiah17@gmail.com](vanydiah17@gmail.com) or my [![Social Media](https://vanydiah.carrd.co/)](social links)
+Feel free to drop me a line by [vanydiah17@gmail](mailto:vanydiah17@gmail.com) or my [social links](https://vanydiah.carrd.co)
 
 Technologies, frameworks, and tools i'm using so far : <br /> <br />
 
@@ -23,9 +23,9 @@ Technologies, frameworks, and tools i'm using so far : <br /> <br />
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![]()]()
 [![]()]()
 [![]()]()
