@@ -8,7 +8,7 @@ A passionate Front-end Engineer and experienced in developing pixel-perfect mid 
 Interested to discuss with me? Let's get in touch.<br />
 Feel free to drop me a line by [e-mail](mailto:vanydiah17@gmail.com) or my [social links](https://vanydiah.carrd.co)
 
-Technologies, frameworks, and tools i'm using so far : <br /> <br />
+Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
