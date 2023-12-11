@@ -1,5 +1,5 @@
 <b>Hi there 👋 I'm Vany Diah</b> </br>
-<b>Open to work for Remote Front-end Engineer with any time zone 🌏 </b>
+<b>Remote Front-end Engineer (Web & Mobile Apps)</b>
 
 Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
 
