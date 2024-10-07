@@ -31,7 +31,7 @@ Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 
 
-<b>My Awesome Stats</b>
+<b>My Stats</b> </br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanydiah?cardType=level&theme=jolly&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
