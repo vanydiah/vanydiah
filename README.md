@@ -33,6 +33,7 @@ Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 
 <b>My Stats</b> </br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanydiah?cardType=level&theme=jolly&preferLogin=false)](https://git.io/awesome-stats-card)
+![vanydiah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanydiah&theme=jolly&hide_border=true)
 
 <!--
 **vanydiah/vanydiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
