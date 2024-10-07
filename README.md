@@ -6,7 +6,7 @@ Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&log
 A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 8+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
 
 Interested to discuss with me? Let's get in touch.<br />
-Feel free to drop me a line by [e-mail](mailto:vanydiah17@gmail.com) or my [social links](https://vanydiah.carrd.co)
+Feel free to drop me a line by [💌 e-mail](mailto:vanydiah17@gmail.com) or my [🔗 social links](https://vanydiah.carrd.co)
 
 Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 
@@ -31,6 +31,8 @@ Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 [![]()]()
 [![]()]()
 [![]()]()
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanydiah?cardType=level&theme=jolly&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **vanydiah/vanydiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
