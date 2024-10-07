@@ -31,10 +31,11 @@ Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 
 </br></br>
+
 <b>My Stats</b>
-</br>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanydiah?cardType=level&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)
-![vanydiah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanydiah&theme=graywhite&hide_border=true)
+</br></br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanydiah?cardType=level&theme=graywhite&preferLogin=false&Border=C3C3C3)](https://git.io/awesome-stats-card)
+![vanydiah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanydiah&theme=graywhite&hide_border=false)
 
 <!--
 **vanydiah/vanydiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
