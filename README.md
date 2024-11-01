@@ -35,8 +35,8 @@ Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 <b>GitHub Stats</b>
 </br></br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanydiah?cardType=level&theme=graywhite&preferLogin=false&Border=C3C3C3)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanydiah&theme=graywhite)
 ![vanydiah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanydiah&theme=graywhite&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanydiah&theme=graywhite)
 
 <!--
 **vanydiah/vanydiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
