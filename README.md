@@ -1,11 +1,13 @@
 <b>Hi there 👋 I'm Vany Diah</b> </br>
 <b>Remote Front-end Engineer (Web & Mobile Apps)</b>
 
-Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
+
 
 A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 8+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
 
 Interested to discuss with me? Let's get in touch.<br />
+Visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
+<br/>
 Feel free to drop me a line by [💌 e-mail](mailto:vanydiah17@gmail.com) or my [🔗 social links](https://vanydiah.carrd.co)
 
 Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
@@ -31,7 +33,7 @@ Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 
 </br></br>
-
+<!--
 <b>GitHub Stats</b>
 </br></br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanydiah?cardType=level&theme=dracula&preferLogin=false&Border=C3C3C3)](https://git.io/awesome-stats-card)
@@ -39,6 +41,8 @@ Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
 ![vanydiah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanydiah&theme=dracula&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanydiah&theme=dracula&layout=compact)
+
+-->
 
 <!--
 **vanydiah/vanydiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
