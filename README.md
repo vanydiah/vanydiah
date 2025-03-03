@@ -1,15 +1,16 @@
-<b>Hi there 👋 I'm Vany Diah</b> </br>
-<b>Remote Front-end Engineer (Web & Mobile Apps)</b>
+<b>Hi there 👋 I'm Vany Diah,</b>
 
+a Front-end Developer who’s passionate about crafting beautiful, user-friendly digital experiences.
 
+For over 10 years, I’ve been bringing creative designs to life—whether it’s sleek websites, intuitive apps, or seamless user interfaces. I love turning ideas into reality with clean, pixel-perfect code. 💻✨
 
-A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 10+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
+Currently, I'm focused on Javascript, Typescript, React, React Native, Next.js, and Angular, and I am always eager to learn new things in technology.
 
-Interested to discuss with me? Let's get in touch.<br />
+Want to collaborate? Let’s chat! 💬<br />
 Feel free to drop me a line by [💌 e-mail](mailto:vanydiah17@gmail.com), my [🔗 social links](https://vanydiah.carrd.co)
 or visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
 
-Technologies, frameworks, libraries, and tools i'm using so far : <br /> <br />
+Technologies, frameworks, libraries, and tools I'm using so far: <br /> <br />
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
