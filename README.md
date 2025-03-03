@@ -3,7 +3,7 @@
 
 
 
-A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 8+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
+A passionate Front-end Engineer and experienced in developing pixel-perfect mid to large-scale websites and apps for 10+ years. Currently i'm focused on Javascript, Typescript, React, React Native, Next.js, Angular, and always eager to learn new things in technology.
 
 Interested to discuss with me? Let's get in touch.<br />
 Feel free to drop me a line by [💌 e-mail](mailto:vanydiah17@gmail.com), my [🔗 social links](https://vanydiah.carrd.co)
