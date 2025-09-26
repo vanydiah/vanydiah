@@ -8,7 +8,7 @@ Currently, I'm focused on Javascript, Typescript, React, React Native, Next.js, 
 
 Want to collaborate? Let’s chat! 💬<br />
 Feel free to drop me a line by [💌 e-mail](mailto:vanydiah17@gmail.com), my [🔗 social links](https://vanydiah.carrd.co)
-or visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
+or visit my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanydiah/)](https://www.linkedin.com/in/vanydiah/)
 
 Technologies, frameworks, libraries, and tools I'm using so far: <br /> <br />
 
